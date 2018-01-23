@@ -1,0 +1,49 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/GrahamFoster/Desktop/CheckYourShelf/GitTest/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/GrahamFoster/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.0.aar/2e8d67d2c7a2adb43697574c059005fe/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/GrahamFoster/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/GrahamFoster/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.0.aar/2e8d67d2c7a2adb43697574c059005fe/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/GrahamFoster/Desktop/CheckYourShelf/GithubTest/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/GrahamFoster/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.0.aar/2e8d67d2c7a2adb43697574c059005fe/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

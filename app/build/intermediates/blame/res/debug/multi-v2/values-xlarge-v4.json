@@ -1,0 +1,49 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/GrahamFoster/Desktop/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/GrahamFoster/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.0.aar/2e8d67d2c7a2adb43697574c059005fe/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,126,197,267,337,405",
+                        "endColumns": "70,70,69,69,67,67",
+                        "endOffsets": "121,192,262,332,400,468"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/GrahamFoster/Desktop/CheckYourShelf/GithubTest/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/GrahamFoster/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.0.aar/2e8d67d2c7a2adb43697574c059005fe/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,126,197,267,337,405",
+                        "endColumns": "70,70,69,69,67,67",
+                        "endOffsets": "121,192,262,332,400,468"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/GrahamFoster/Desktop/CheckYourShelf/GitTest/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/GrahamFoster/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.0.aar/2e8d67d2c7a2adb43697574c059005fe/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,126,197,267,337,405",
+                        "endColumns": "70,70,69,69,67,67",
+                        "endOffsets": "121,192,262,332,400,468"
+                    }
+                }
+            ]
+        }
+    ]
+}
